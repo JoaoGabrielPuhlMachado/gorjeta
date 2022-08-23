@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  background-color: rgb(161, 161, 161);
+  font-family: Arial, Helvetica, sans-serif;
+}
+main{
+  background-color: rgb(202, 184, 162);
+  padding: 10px;
+  margin: 50% auto;
+
+}
+input, select {
+  display: block;
+  width: 360px;
+  height: 25px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+h4 {
+  background-color: rgb(184, 255, 243);
+  height: 40px;
+  padding: 5px;
+}
